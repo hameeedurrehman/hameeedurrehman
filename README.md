@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Logic Building and NEXT Framework**
 
-- 👨‍💻My Frontend Portfolio links is: [hameedurrehman.netlify.app](hameedurrehman.netlify.app)
+- 👨‍💻My Frontend Portfolio link is: [hameedurrehman.netlify.app](hameedurrehman.netlify.app)
 
 - 💬 Ask me about **JavaScript, React and Tailwind**
 
