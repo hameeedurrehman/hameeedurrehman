@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **TO DO Logic Building and Problem Solving**
 
-- 👨‍💻My Frontend Portfolio link is: <a href='https://hameedurrehman.netlify.app'>Portfolio</a>
+- 👨‍💻My Frontend Portfolio link is: <a href='https://hameedurrehman.netlify.app'>HAMEED-UR-REHMAN PORTFOLIO</a>
 
-- 💬 Ask me about **Typescript, JavaScript, NEXT, React and Tailwind**
+- 💬 My Expertise are **Typescript, JavaScript, NEXT, React and Tailwind**
 
 - 📫 How to reach me **hameedurrehman35@gmail.com**
 
