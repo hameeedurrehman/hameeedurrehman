@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameeedurrehman&label=Profile%20views&color=0e75b6&style=flat" alt="hameeedurrehman" /> </p>
 
-- 🔭 I’m currently working on **Frontend Projects in XIOTS Ltd**
+- 🔭 I’m currently working on **Frontend Development Projects at XIOTS Ltd**
 
-- 🌱 I’m currently learning **Logic Building and NEXT Framework**
+- 🌱 I’m currently learning **TO DO Logic Building and Problem Solving**
 
 - 👨‍💻My Frontend Portfolio link is: <a href='https://hameedurrehman.netlify.app'>Portfolio</a>
 
-- 💬 Ask me about **JavaScript, React and Tailwind**
+- 💬 Ask me about **Typescript, JavaScript, NEXT, React and Tailwind**
 
 - 📫 How to reach me **hameedurrehman35@gmail.com**
 
