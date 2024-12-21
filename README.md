@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameeedurrehman&label=Profile%20views&color=0e75b6&style=flat" alt="hameeedurrehman" /> </p>
 
-- 🔭 I’m currently working on a product based company CarAdvisers.com as a **Frontend Developer**
+- 🔭 I’m currently working in a product based company CarAdvisers.com as a **Frontend Developer**
 
 - 🌱 I’m currently learning **TO DO Logic Building and Problem Solving**
 
